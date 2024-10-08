@@ -1,0 +1,6 @@
+﻿  AlgorithmsSolving_lvl4.cpp
+F:\ProgrammingAdvices\Course 08 - Algorithms-lvl4\AlgorithmsSolving_lvl4\AlgorithmsSolving_lvl4\AlgorithmsSolving_lvl4.cpp(886,10): warning C4129: 'D': unrecognized character escape sequence
+F:\ProgrammingAdvices\Course 08 - Algorithms-lvl4\AlgorithmsSolving_lvl4\AlgorithmsSolving_lvl4\AlgorithmsSolving_lvl4.cpp(1029,27): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\ProgrammingAdvices\Course 08 - Algorithms-lvl4\AlgorithmsSolving_lvl4\AlgorithmsSolving_lvl4\AlgorithmsSolving_lvl4.cpp(1082,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\ProgrammingAdvices\Course 08 - Algorithms-lvl4\AlgorithmsSolving_lvl4\AlgorithmsSolving_lvl4\AlgorithmsSolving_lvl4.cpp(1088,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  AlgorithmsSolving_lvl4.vcxproj -> F:\ProgrammingAdvices\Course 08 - Algorithms-lvl4\AlgorithmsSolving_lvl4\x64\Debug\AlgorithmsSolving_lvl4.exe
