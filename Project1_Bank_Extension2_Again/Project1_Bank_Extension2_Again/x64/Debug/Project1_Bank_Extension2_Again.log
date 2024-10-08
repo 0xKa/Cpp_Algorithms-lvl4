@@ -1,0 +1,7 @@
+﻿  Project1_Bank_Extension2_Again.cpp
+F:\ProgrammingAdvices\Course 8 - Algorithms-lvl4\Project1_Bank_Extension2_Again\Project1_Bank_Extension2_Again\Project1_Bank_Extension2_Again.cpp(76,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+F:\ProgrammingAdvices\Course 8 - Algorithms-lvl4\Project1_Bank_Extension2_Again\Project1_Bank_Extension2_Again\Project1_Bank_Extension2_Again.cpp(107,27): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\ProgrammingAdvices\Course 8 - Algorithms-lvl4\Project1_Bank_Extension2_Again\Project1_Bank_Extension2_Again\Project1_Bank_Extension2_Again.cpp(632,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\ProgrammingAdvices\Course 8 - Algorithms-lvl4\Project1_Bank_Extension2_Again\Project1_Bank_Extension2_Again\Project1_Bank_Extension2_Again.cpp(685,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\ProgrammingAdvices\Course 8 - Algorithms-lvl4\Project1_Bank_Extension2_Again\Project1_Bank_Extension2_Again\Project1_Bank_Extension2_Again.cpp(695,12): warning C4129: 'W': unrecognized character escape sequence
+  Project1_Bank_Extension2_Again.vcxproj -> F:\ProgrammingAdvices\Course 8 - Algorithms-lvl4\Project1_Bank_Extension2_Again\x64\Debug\Project1_Bank_Extension2_Again.exe
